@@ -1,0 +1,23 @@
+{
+  "name": "npm_test",
+  "version": "1.0.0",
+  "description": "Testing out n bashin it",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camouflagedName/test_stuff.git"
+  },
+  "author": "Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camouflagedName/test_stuff/issues"
+  },
+  "homepage": "https://github.com/camouflagedName/test_stuff#readme"
+}
